@@ -60,7 +60,7 @@
       <br>Node.js
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="express" />
       <br>Express.js
     </td>
     <td align="center"  width="96">
