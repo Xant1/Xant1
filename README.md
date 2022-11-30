@@ -37,6 +37,10 @@
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
       <br>GraphQL
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
   </tr>
   <tr>
     <td align="center"  width="96">
