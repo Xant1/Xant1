@@ -1,5 +1,8 @@
 ### Hi there 👋
 ![image](https://user-images.githubusercontent.com/94224520/204734890-e126a5c5-f85d-4dce-a85f-49481bb12905.png)
+![image](https://user-images.githubusercontent.com/94224520/204734951-72dff6f5-0e11-46f8-9719-cdaa08257fd9.png)
+![image](https://user-images.githubusercontent.com/94224520/204735947-f547ff6d-3693-46e0-9313-3fa3853547f8.png)
+
 
 <!--
 **Xant1/Xant1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
