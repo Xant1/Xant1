@@ -72,7 +72,7 @@
       <br>PostgreSQL
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongo" />
+        <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="mongo" />
       <br>Mongo
     </td>
   </tr>
