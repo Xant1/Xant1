@@ -5,8 +5,8 @@
 > Tools and technologies that I have worked with and am interested in
 
 <table>
+  ![image](https://user-images.githubusercontent.com/94224520/204751162-ed60db3d-8e7e-44bb-a0f6-2a045483d9b9.png)
   <tr>
-    ![image](https://user-images.githubusercontent.com/94224520/204751104-8dcaab48-73fe-4468-8f7b-311542f3d8fb.png)
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
