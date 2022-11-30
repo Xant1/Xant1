@@ -52,8 +52,16 @@
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
       <br>Vue.js
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=node" width="48" height="48" alt="node" />
+      <br>Node.js
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+      <br>Express.js
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
@@ -62,6 +70,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="mongo" />
+      <br>Mongo
     </td>
   </tr>
  <tr>
