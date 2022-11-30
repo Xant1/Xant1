@@ -55,6 +55,10 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="bootstrap" />
+      <br>Vue
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
