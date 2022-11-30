@@ -56,7 +56,7 @@
       <br>Vue.js
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=node" width="48" height="48" alt="node" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="node" />
       <br>Node.js
     </td>
     <td align="center"  width="96">
