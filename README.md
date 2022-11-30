@@ -11,6 +11,10 @@
       <br>Javascript
     </td>
     <td align="center" width="96">
+        ![image](https://user-images.githubusercontent.com/94224520/204750668-6c24a5b5-5414-411f-b5ec-b15435c40749.png)
+      <br>React
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>Rest
     </td>
