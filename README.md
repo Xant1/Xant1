@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> I'm Darkhan
+# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">, I'm Darkhan
 ## I'm a Full-Stack JS Developer
 ## My favorite tools and technologies ⚙️ 
 
