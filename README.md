@@ -10,7 +10,7 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    ![image](https://user-images.githubusercontent.com/94224520/204750790-bf16300a-c739-4170-8fcb-010e6d3d2064.png)
+    
 
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
