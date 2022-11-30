@@ -3,8 +3,6 @@
 ## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
-![image](https://user-images.githubusercontent.com/94224520/204751213-90f80c09-691b-42f4-8e4c-4afaed583a8a.png)
-
 <table>
   <tr>
     <td align="center" width="96">
