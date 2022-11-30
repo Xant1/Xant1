@@ -3,9 +3,9 @@
 ## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
+![image](https://user-images.githubusercontent.com/94224520/204751213-90f80c09-691b-42f4-8e4c-4afaed583a8a.png)
 
 <table>
-  ![image](https://user-images.githubusercontent.com/94224520/204751162-ed60db3d-8e7e-44bb-a0f6-2a045483d9b9.png)
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
