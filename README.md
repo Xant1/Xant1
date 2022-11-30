@@ -6,11 +6,11 @@
 
 <table>
   <tr>
+    ![image](https://user-images.githubusercontent.com/94224520/204751104-8dcaab48-73fe-4468-8f7b-311542f3d8fb.png)
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    ![image](https://user-images.githubusercontent.com/94224520/204751001-6f829e39-a322-462b-a98a-b2c81e697b51.png)
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>Rest
