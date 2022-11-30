@@ -1,4 +1,5 @@
-### Hello, I am a Full-Stack JS Developer
+### Hello ![image](https://user-images.githubusercontent.com/94224520/204739010-f9a090cc-be50-4935-b560-1d8ffc305b77.png)
+, I am a Full-Stack JS Developer
 ## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
