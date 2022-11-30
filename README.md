@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">, <a href="https://www.linkedin.com/in/darkhan-zharylkagan-166129251/">Darkhan</a>
+# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">, I'm <a href="https://www.linkedin.com/in/darkhan-zharylkagan-166129251/">Darkhan</a>
 ## I'm a Full-Stack JS Developer
 ## My favorite tools and technologies ⚙️ 
 
