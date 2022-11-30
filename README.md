@@ -86,8 +86,8 @@
       <br>Postman
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongoose" width="65" height="65" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=mongoos" width="65" height="65" alt="mongoose" />
+      <br>Mongoose
     </td>
  </tr>
 </table>
