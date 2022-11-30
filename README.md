@@ -7,10 +7,10 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Typescript
-    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
+      <br>Vue.js
+    </td>    
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
@@ -18,6 +18,14 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
       <br>Redux
+    </td>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="node" />
+      <br>Node.js
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="express" />
+      <br>Express.js
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
@@ -32,15 +40,7 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
+    </td>   
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -51,17 +51,17 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
-      <br>Vue.js
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>Typescript
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="node" />
-      <br>Node.js
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <br>GraphQL
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="express" />
-      <br>Express.js
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
