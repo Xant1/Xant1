@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33px">, I'm <a href="https://www.linkedin.com/in/darkhan-zharylkagan-166129251/">Darkhan</a>. I'm a Full-Stack <img src="https://skillicons.dev/icons?i=js" width="27" height="27" alt="js" /> Developer
+# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33px">, I'm <a href="https://www.linkedin.com/in/darkhan-zharylkagan-166129251/">Darkhan</a>. I'm a Full-Stack <img src="https://skillicons.dev/icons?i=js" width="23" height="23" alt="js" /> Developer
 ## ⚙️Tools and technologies that I have worked with and am interested in ⚙️ 
 <table>
   <tr>
