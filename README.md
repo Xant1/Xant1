@@ -89,7 +89,7 @@
       <br>Postman
     </td>
    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Insomnia" width="65" height="65" alt="Insomnia" />
+        <img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="65" height="65" alt="Insomnia" />
       <br>Insomnia
     </td>
  </tr>
