@@ -89,7 +89,7 @@
       <br>Postman
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=insomnia" width="65" height="65" alt="Insomnia" />
+        <img src="https://skillicons.dev/icons?i=Postman" width="65" height="65" alt="Insomnia" />
       <br>Insomnia
     </td>
  </tr>
