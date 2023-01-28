@@ -88,5 +88,9 @@
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="65" height="65" alt="Postman" />
       <br>Postman
     </td>
+   <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="65" height="65" alt="Insomnia" />
+      <br>Insomnia
+    </td>
  </tr>
 </table>
