@@ -6,10 +6,6 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Typescript
-    </td>
      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="node" />
       <br>Node.js
@@ -37,7 +33,11 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>GitHub
-    </td>   
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -67,8 +67,8 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=mongo" width="65" height="65" alt="mongo" />
@@ -80,10 +80,6 @@
     </td>
   </tr>
  <tr>
-   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="65" height="65" alt="Postman" />
       <br>Postman
@@ -91,6 +87,10 @@
    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="65" height="65" alt="Insomnia" />
       <br>Insomnia
+   </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>Typescript
     </td>
  </tr>
 </table>
