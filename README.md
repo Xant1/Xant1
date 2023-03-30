@@ -94,7 +94,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sequelize" width="65" height="65" alt="bootstrap" />
-      <br>Typescript
+      <br>Sequelize
     </td>
  </tr>
 </table>
