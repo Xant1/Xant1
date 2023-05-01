@@ -93,7 +93,7 @@
       <br>Typescript
    </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=Bootstrap" width="65" height="65" alt="Bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
    </td>
  </tr>
